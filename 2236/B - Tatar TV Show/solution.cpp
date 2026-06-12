@@ -11,20 +11,18 @@ int main() {
         int n, k; cin >> n >> k;
         string s; cin >> s;
         bool yes = true;
-        for (int i = 0; i < k; i++) {
+        for (int i = 0; i < k; i++){
             int ones = 0;
- 
-            for (int j = i; j < n; j += k) {
+            for (int j = i; j < n; j += k){
                 if (s[j] == '1')
                     ones++;
             }
- 
-            if (ones % 2) {
+            if (ones % 2){
                 yes = false;
                 break;
             }
         }
-        if (yes) cout << "YES" << endl;
+        if(yes) cout << "YES" << endl;
         else cout << "NO" << endl;
     }
 }
