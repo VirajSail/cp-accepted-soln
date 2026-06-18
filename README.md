@@ -6,15 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
 ### strings
 
