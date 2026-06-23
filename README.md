@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 9 |
+| 9 | 10 |
 
 ---
 
@@ -15,6 +15,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (2)
@@ -43,6 +44,12 @@
 |---|---------|------------|----------|
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
 | 1915B | [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1915/B%20-%20Not%20Quite%20Latin%20Square/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
 
 ### dp
 
