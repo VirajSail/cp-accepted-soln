@@ -37,7 +37,7 @@ int main(){
             sum += b[i];
         }
         cout << abs(sum) << endl;
-        for(auto x : a) cout << x << " ";
+        for(auto x : a) cout << x << "  ";
         cout << endl;
     }
 }
