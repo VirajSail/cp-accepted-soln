@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 9 |
+| 8 | 9 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (2)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
@@ -69,6 +69,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.cpp) |
+| 2171B | [Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2171/B%20-%20Yuu%20Koito%20and%20Minimum%20Absolute%20Sum/solution.cpp) |
 
 ### sortings
 
