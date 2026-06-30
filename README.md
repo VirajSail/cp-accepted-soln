@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 11 |
+| 15 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (1)
@@ -36,6 +36,7 @@
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2238D | [Storming Arasaka](https://codeforces.com/contest/2238/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2238/D%20-%20Storming%20Arasaka/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+| 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 
 ### bitmasks
 
