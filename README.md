@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 19 |
+| 40 | 19 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (6)
-- [math](#math) (8)
+- [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (6)
@@ -167,6 +167,7 @@
 | 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
 | 1884A | [Simple Design](https://codeforces.com/contest/1884/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1884/A%20-%20Simple%20Design/solution.cpp) |
 | 2171B | [Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2171/B%20-%20Yuu%20Koito%20and%20Minimum%20Absolute%20Sum/solution.cpp) |
+| 2184B | [Hourglass](https://codeforces.com/contest/2184/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2184/B%20-%20Hourglass/solution.cpp) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2208/B%20-%20Cyclists/solution.cpp) |
 | 2224B | [Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2224/B%20-%20Zhily%20and%20Mex%20and%20Max/solution.cpp) |
