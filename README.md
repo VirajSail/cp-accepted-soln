@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 20 |
+| 46 | 20 |
 
 ---
 
@@ -18,20 +18,20 @@
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
-- [data structures](#data-structures) (2)
+- [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (5)
 - [games](#games) (3)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (13)
+- [greedy](#greedy) (14)
 - [implementation](#implementation) (9)
-- [math](#math) (11)
+- [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (6)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -104,6 +104,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 
 ### dfs and similar
@@ -142,6 +143,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1884A | [Simple Design](https://codeforces.com/contest/1884/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1884/A%20-%20Simple%20Design/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
@@ -174,6 +176,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
@@ -225,6 +228,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 2193D | [Monster Game](https://codeforces.com/contest/2193/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2193/D%20-%20Monster%20Game/solution.cpp) |
