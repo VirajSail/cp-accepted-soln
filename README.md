@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 19 |
+| 44 | 20 |
 
 ---
 
@@ -15,21 +15,22 @@
 - [Uncategorized](#uncategorized) (14)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (8)
+- [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (5)
 - [games](#games) (3)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (13)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (6)
 - [strings](#strings) (2)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (4)
 
 ---
@@ -72,6 +73,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1884A | [Simple Design](https://codeforces.com/contest/1884/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1884/A%20-%20Simple%20Design/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1902B | [Getting Points](https://codeforces.com/contest/1902/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1902/B%20-%20Getting%20Points/solution.cpp) |
@@ -101,6 +103,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 
 ### dfs and similar
@@ -156,6 +159,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1915B | [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1915/B%20-%20Not%20Quite%20Latin%20Square/solution.cpp) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
@@ -209,6 +213,12 @@
 |---|---------|------------|----------|
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2149D | [A and B](https://codeforces.com/contest/2149/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2149/D%20-%20A%20and%20B/solution.cpp) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 
 ### two pointers
 
