@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 21 |
+| 55 | 21 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (17)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (11)
+- [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (3)
@@ -76,6 +76,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 22A | [Second Order Statistics](https://codeforces.com/contest/22/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/22/A%20-%20Second%20Order%20Statistics/solution.cpp) |
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
