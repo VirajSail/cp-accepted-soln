@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 21 |
+| 53 | 21 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [implementation](#implementation) (10)
 - [math](#math) (13)
 - [number theory](#number-theory) (1)
@@ -170,6 +170,7 @@
 | 2169B | [Drifting Away](https://codeforces.com/contest/2169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2169/B%20-%20Drifting%20Away/solution.cpp) |
 | 2178C | [First or Second](https://codeforces.com/contest/2178/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2178/C%20-%20First%20or%20Second/solution.cpp) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2208/B%20-%20Cyclists/solution.cpp) |
+| 2220B | [OIE Excursion](https://codeforces.com/contest/2220/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2220/B%20-%20OIE%20Excursion/solution.cpp) |
 | 2224B | [Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2224/B%20-%20Zhily%20and%20Mex%20and%20Max/solution.cpp) |
 
 ### implementation
