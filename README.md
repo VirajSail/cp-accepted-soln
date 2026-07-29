@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 59 | 21 |
+| 60 | 21 |
 
 ---
 
@@ -24,9 +24,9 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (20)
 - [implementation](#implementation) (12)
-- [math](#math) (15)
+- [math](#math) (16)
 - [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (7)
@@ -173,6 +173,7 @@
 | 2114C | [Need More Arrays](https://codeforces.com/contest/2114/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2114/C%20-%20Need%20More%20Arrays/solution.cpp) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
 | 2169B | [Drifting Away](https://codeforces.com/contest/2169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2169/B%20-%20Drifting%20Away/solution.cpp) |
+| 2170B | [Addition on a Segment](https://codeforces.com/contest/2170/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2170/B%20-%20Addition%20on%20a%20Segment/solution.cpp) |
 | 2174A | [Needle in a Haystack](https://codeforces.com/contest/2174/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2174/A%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2178C | [First or Second](https://codeforces.com/contest/2178/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2178/C%20-%20First%20or%20Second/solution.cpp) |
 | 2189B | [The Curse of the Frog](https://codeforces.com/contest/2189/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2189/B%20-%20The%20Curse%20of%20the%20Frog/solution.cpp) |
@@ -209,6 +210,7 @@
 | 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
 | 1884A | [Simple Design](https://codeforces.com/contest/1884/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1884/A%20-%20Simple%20Design/solution.cpp) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
+| 2170B | [Addition on a Segment](https://codeforces.com/contest/2170/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2170/B%20-%20Addition%20on%20a%20Segment/solution.cpp) |
 | 2171B | [Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2171/B%20-%20Yuu%20Koito%20and%20Minimum%20Absolute%20Sum/solution.cpp) |
 | 2181H | [Honey Cake](https://codeforces.com/contest/2181/problem/H) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2181/H%20-%20Honey%20Cake/solution.cpp) |
 | 2184B | [Hourglass](https://codeforces.com/contest/2184/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2184/B%20-%20Hourglass/solution.cpp) |
