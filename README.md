@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 62 | 21 |
+| 63 | 21 |
 
 ---
 
@@ -24,9 +24,9 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (20)
+- [greedy](#greedy) (21)
 - [implementation](#implementation) (13)
-- [math](#math) (16)
+- [math](#math) (17)
 - [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (7)
@@ -164,6 +164,7 @@
 |---|---------|------------|----------|
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
+| 1768B | [Quick Sort](https://codeforces.com/contest/1768/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1768/B%20-%20Quick%20Sort/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1874A | [Jellyfish and Game](https://codeforces.com/contest/1874/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1874/A%20-%20Jellyfish%20and%20Game/solution.cpp) |
 | 1884A | [Simple Design](https://codeforces.com/contest/1884/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1884/A%20-%20Simple%20Design/solution.cpp) |
@@ -207,6 +208,7 @@
 |---|---------|------------|----------|
 | 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
+| 1768B | [Quick Sort](https://codeforces.com/contest/1768/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1768/B%20-%20Quick%20Sort/solution.cpp) |
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1846/D%20-%20Rudolph%20and%20Christmas%20Tree/solution.cpp) |
