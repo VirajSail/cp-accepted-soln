@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 21 |
+| 71 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [Uncategorized](#uncategorized) (21)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (1)
@@ -24,7 +25,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (22)
+- [greedy](#greedy) (23)
 - [implementation](#implementation) (14)
 - [math](#math) (17)
 - [number theory](#number-theory) (2)
@@ -35,6 +36,12 @@
 - [two pointers](#two-pointers) (9)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2141B | [Games](https://codeforces.com/contest/2141/problem/B) | 1200 | [Kotlin 1.7](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2141/B%20-%20Games/solution.txt) |
 
 ### Uncategorized
 
@@ -183,6 +190,7 @@
 | 2042B | [Game with Colored Marbles](https://codeforces.com/contest/2042/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2042/B%20-%20Game%20with%20Colored%20Marbles/solution.cpp) |
 | 2114C | [Need More Arrays](https://codeforces.com/contest/2114/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2114/C%20-%20Need%20More%20Arrays/solution.cpp) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
+| 2141B | [Games](https://codeforces.com/contest/2141/problem/B) | 1200 | [Kotlin 1.7](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2141/B%20-%20Games/solution.txt) |
 | 2169B | [Drifting Away](https://codeforces.com/contest/2169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2169/B%20-%20Drifting%20Away/solution.cpp) |
 | 2170B | [Addition on a Segment](https://codeforces.com/contest/2170/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2170/B%20-%20Addition%20on%20a%20Segment/solution.cpp) |
 | 2174A | [Needle in a Haystack](https://codeforces.com/contest/2174/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2174/A%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
