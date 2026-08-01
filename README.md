@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 21 |
+| 64 | 21 |
 
 ---
 
@@ -17,15 +17,15 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (6)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
-- [graphs](#graphs) (2)
+- [graphs](#graphs) (3)
 - [greedy](#greedy) (21)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (17)
 - [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
@@ -103,6 +103,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1846/D%20-%20Rudolph%20and%20Christmas%20Tree/solution.cpp) |
 | 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
@@ -155,6 +156,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 | 2155B | [Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2155/B%20-%20Abraham's%20Great%20Escape/solution.cpp) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 
@@ -188,6 +190,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1874A | [Jellyfish and Game](https://codeforces.com/contest/1874/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1874/A%20-%20Jellyfish%20and%20Game/solution.cpp) |
