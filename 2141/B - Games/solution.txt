@@ -1,0 +1,43 @@
+import java.util.StringTokenizer
+ 
+private lateinit var st: StringTokenizer
+private fun nextInt(): Int {
+    while (!::st.isInitialized || !st.hasMoreTokens()) {
+        st = StringTokenizer(readln())
+    }
+    return st.nextToken().toInt()
+}
+fun solve() {
+    val n = nextInt()
+    val m = nextInt()
+    val a = IntArray(n)
+    val b = IntArray(m)
+    for (i in 0 until n) {
+        a[i] = nextInt()
+    }
+    for (i in 0 until m) {
+        b[i] = nextInt()
+    }
+    var count = 0L
+    for (i in 0 until n) {
+        for (j in 0 until m) {
+            if (a[i] == b[j]) {
+                count++
+            }
+        }
+    }
+    val ua = n - count
+    val ub = m - count
+    if (ua <= ub) {
+        println(1 + ua * 2)
+    } else {
+        println((1 + ub) * 2)
+    }
+}
+ 
+fun main() {
+    val t = nextInt()
+    repeat(t) {
+        solve()
+    }
+}
