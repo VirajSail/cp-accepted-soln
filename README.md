@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 22 |
+| 72 | 22 |
 
 ---
 
@@ -27,8 +27,8 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (23)
 - [implementation](#implementation) (14)
-- [math](#math) (17)
-- [number theory](#number-theory) (2)
+- [math](#math) (18)
+- [number theory](#number-theory) (3)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (7)
 - [strings](#strings) (4)
@@ -230,6 +230,7 @@
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1846/D%20-%20Rudolph%20and%20Christmas%20Tree/solution.cpp) |
 | 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
+| 1877C | [Joyboard](https://codeforces.com/contest/1877/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1877/C%20-%20Joyboard/solution.cpp) |
 | 1884A | [Simple Design](https://codeforces.com/contest/1884/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1884/A%20-%20Simple%20Design/solution.cpp) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
 | 2170B | [Addition on a Segment](https://codeforces.com/contest/2170/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2170/B%20-%20Addition%20on%20a%20Segment/solution.cpp) |
@@ -245,6 +246,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1877C | [Joyboard](https://codeforces.com/contest/1877/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1877/C%20-%20Joyboard/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 2181H | [Honey Cake](https://codeforces.com/contest/2181/problem/H) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2181/H%20-%20Honey%20Cake/solution.cpp) |
 
