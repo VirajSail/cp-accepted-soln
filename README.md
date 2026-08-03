@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 22 |
+| 74 | 22 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (21)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (15)
+- [brute force](#brute-force) (16)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (4)
@@ -26,7 +26,7 @@
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (23)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [math](#math) (18)
 - [number theory](#number-theory) (3)
 - [schedules](#schedules) (1)
@@ -96,6 +96,7 @@
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
 | 1874A | [Jellyfish and Game](https://codeforces.com/contest/1874/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1874/A%20-%20Jellyfish%20and%20Game/solution.cpp) |
+| 1881C | [Perfect Square](https://codeforces.com/contest/1881/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1881/C%20-%20Perfect%20Square/solution.cpp) |
 | 1884A | [Simple Design](https://codeforces.com/contest/1884/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1884/A%20-%20Simple%20Design/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1902B | [Getting Points](https://codeforces.com/contest/1902/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1902/B%20-%20Getting%20Points/solution.cpp) |
@@ -211,6 +212,7 @@
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1874A | [Jellyfish and Game](https://codeforces.com/contest/1874/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1874/A%20-%20Jellyfish%20and%20Game/solution.cpp) |
+| 1881C | [Perfect Square](https://codeforces.com/contest/1881/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1881/C%20-%20Perfect%20Square/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1915B | [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1915/B%20-%20Not%20Quite%20Latin%20Square/solution.cpp) |
 | 1992D | [Test of Love](https://codeforces.com/contest/1992/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1992/D%20-%20Test%20of%20Love/solution.cpp) |
