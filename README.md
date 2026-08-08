@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 22 |
+| 86 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
+- [*special](#special) (2)
 - [Uncategorized](#uncategorized) (30)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (2)
@@ -26,7 +26,7 @@
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (24)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (19)
 - [number theory](#number-theory) (4)
 - [schedules](#schedules) (1)
@@ -41,6 +41,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 2141B | [Games](https://codeforces.com/contest/2141/problem/B) | 1200 | [Kotlin 1.7](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/2141/B%20-%20Games/solution.txt) |
 
 ### Uncategorized
@@ -223,6 +224,7 @@
 |---|---------|------------|----------|
 | 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1874A | [Jellyfish and Game](https://codeforces.com/contest/1874/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1874/A%20-%20Jellyfish%20and%20Game/solution.cpp) |
