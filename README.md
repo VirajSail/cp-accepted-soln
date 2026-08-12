@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 94 | 22 |
+| 95 | 22 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (27)
 - [implementation](#implementation) (20)
-- [math](#math) (24)
+- [math](#math) (25)
 - [number theory](#number-theory) (5)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (9)
@@ -261,6 +261,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1593A | [Elections](https://codeforces.com/contest/1593/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1593/A%20-%20Elections/solution.cpp) |
 | 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1768B | [Quick Sort](https://codeforces.com/contest/1768/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1768/B%20-%20Quick%20Sort/solution.cpp) |
