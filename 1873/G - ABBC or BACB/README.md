@@ -1,0 +1,25 @@
+<h2><a href="https://codeforces.com/contest/1873/problem/G" target="_blank" rel="noopener noreferrer">1873G — ABBC or BACB</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1500 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1873G](https://codeforces.com/contest/1873/problem/G) |
+
+## Topics
+`constructive algorithms` `greedy`
+
+---
+
+## Problem Statement
+
+<div class="header" bis_skin_checked="1"><div class="title" bis_skin_checked="1">G. ABBC or BACB</div><div class="time-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">time limit per test</div>1 second</div><div class="memory-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">input</div>standard input</div><div class="output-file output-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">output</div>standard output</div></div><div bis_skin_checked="1"><p>You are given a string $$$s$$$ made up of characters $$$\texttt{A}$$$ and $$$\texttt{B}$$$. Initially you have no coins. You can perform two types of operations: </p><ul> <li> Pick a substring$$$^\dagger$$$ $$$\texttt{AB}$$$, change it to $$$\texttt{BC}$$$, and get a coin. </li><li> Pick a substring$$$^\dagger$$$ $$$\texttt{BA}$$$, change it to $$$\texttt{CB}$$$, and get a coin. </li></ul> What is the most number of coins you can obtain?<p>$$$^\dagger$$$ A <span class="tex-font-style-it">substring</span> of length $$$2$$$ is a sequence of two adjacent characters of a string.</p></div><div class="input-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Input</div><p>The input consists of multiple test cases. The first line of the input contains a single integer $$$t$$$ ($$$1 \leq t \leq 1000$$$) — the number of test cases.</p><p>The only line of each test case contains the string $$$s$$$ ($$$1 \leq |s| \leq 2 \cdot 10^5$$$). All characters of $$$s$$$ are either $$$\texttt{A}$$$ or $$$\texttt{B}$$$.</p><p>The sum of the lengths of $$$s$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Output</div><p>For each test case, output a single integer — the maximum number of coins you can obtain.</p></div><div class="sample-tests" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Example</div><div class="sample-test" bis_skin_checked="1"><div class="input" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Input<div title="Copy" data-clipboard-target="#id0003693051856437457" id="id009470859671485782" class="input-output-copier">Copy</div></div><pre id="id0003693051856437457"><div class="test-example-line test-example-line-even test-example-line-0" bis_skin_checked="1">8</div><div class="test-example-line test-example-line-odd test-example-line-1" bis_skin_checked="1">ABBA</div><div class="test-example-line test-example-line-even test-example-line-2" bis_skin_checked="1">ABA</div><div class="test-example-line test-example-line-odd test-example-line-3" bis_skin_checked="1">BAABA</div><div class="test-example-line test-example-line-even test-example-line-4" bis_skin_checked="1">ABB</div><div class="test-example-line test-example-line-odd test-example-line-5" bis_skin_checked="1">AAAAAAB</div><div class="test-example-line test-example-line-even test-example-line-6" bis_skin_checked="1">BABA</div><div class="test-example-line test-example-line-odd test-example-line-7" bis_skin_checked="1">B</div><div class="test-example-line test-example-line-even test-example-line-8" bis_skin_checked="1">AAA</div></pre></div><div class="output" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Output<div title="Copy" data-clipboard-target="#id005516126123477672" id="id008068785224346419" class="input-output-copier">Copy</div></div><pre id="id005516126123477672">2
+1
+3
+1
+6
+2
+0
+0
+</pre></div></div></div><div class="note" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Note</div><p>In the first test case you can perform the following operations to get $$$2$$$ coins: $$$$$$\color{red}{\texttt{AB}}\texttt{BA} \to \texttt{BC}\color{red}{\texttt{BA}} \to \texttt{BCCB}$$$$$$</p><p>In the second test case you can perform the following operation to get $$$1$$$ coin: $$$$$$\color{red}{\texttt{AB}}\texttt{A} \to \texttt{BCA}$$$$$$</p><p>In the third test case you can perform the following operations to get $$$3$$$ coins: $$$$$$\color{red}{\texttt{BA}}\texttt{ABA} \to \texttt{CBA}\color{red}{\texttt{BA}} \to \texttt{C}\color{red}{\texttt{BA}}\texttt{CB} \to \texttt{CCBCB}$$$$$$</p></div>
