@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 98 | 22 |
+| 99 | 22 |
 
 ---
 
@@ -15,17 +15,17 @@
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (30)
 - [binary search](#binary-search) (6)
-- [bitmasks](#bitmasks) (2)
+- [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (20)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (13)
+- [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (29)
+- [greedy](#greedy) (30)
 - [implementation](#implementation) (21)
 - [math](#math) (26)
 - [number theory](#number-theory) (5)
@@ -94,6 +94,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1566B | [MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1566/B%20-%20MIN-MEX%20Cut/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1915B | [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1915/B%20-%20Not%20Quite%20Latin%20Square/solution.cpp) |
 
@@ -135,6 +136,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
+| 1566B | [MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1566/B%20-%20MIN-MEX%20Cut/solution.cpp) |
 | 1772D | [Absolute Sorting](https://codeforces.com/contest/1772/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1772/D%20-%20Absolute%20Sorting/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1846/D%20-%20Rudolph%20and%20Christmas%20Tree/solution.cpp) |
@@ -168,6 +170,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1566B | [MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1566/B%20-%20MIN-MEX%20Cut/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
@@ -207,6 +210,7 @@
 |---|---------|------------|----------|
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
+| 1566B | [MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1566/B%20-%20MIN-MEX%20Cut/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1768B | [Quick Sort](https://codeforces.com/contest/1768/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1768/B%20-%20Quick%20Sort/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/VirajSail/cp-accepted-soln/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
